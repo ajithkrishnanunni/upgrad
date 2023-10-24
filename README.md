@@ -17,7 +17,7 @@ X Education, an online course provider, attracts professionals daily to their we
 * Precision- Recall
 
 **Details of files provided**
-* xxxx.ipynb : The python file having coding and data analysis
+* Lead_Score_CaseStudy.ipynb : The python file having coding and data analysis
 * Subjective Questions and their Answers.pdf : Contains all subjective questions answered
 * X Education Lead Scring case Study.pdf : Final Presentation file
 * summary.pdf : Summary file
